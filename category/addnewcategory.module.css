@@ -1,0 +1,45 @@
+.mainContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.containerRow {
+    width: 40% !important;
+}
+
+.newCatContainer {
+    width: 100%;
+}
+
+.addButtonDiv {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.headingCont {
+    display: flex;
+    flex-direction: row !important;
+    color: white !important;
+    font-size: 2em !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    letter-spacing: 0 !important;
+}
+
+.categoryText {
+    color: #0072F5 !important;
+    margin: 0px !important;
+    font-size: 1em !important;
+    /* margin-top: 1rem !important;
+    margin-bottom: 1rem !important; */
+    letter-spacing: 0 !important;
+    line-height: 3rem;
+    font-weight: bold;
+}
+
+.catTitle {
+    margin: 1rem 0 !important;
+    letter-spacing: 0;
+}
