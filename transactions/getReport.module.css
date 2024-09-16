@@ -1,0 +1,21 @@
+.dropdownDiv {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .mainContainer {
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+  .submitButton {
+    margin-top: 15px;
+  }
+  
+  .getReportHeading {
+    font-size: 2em !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    letter-spacing: 0 !important;
+  }

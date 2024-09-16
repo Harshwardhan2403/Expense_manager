@@ -1,0 +1,33 @@
+.headerDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .transHeader {
+    font-size: 2em !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+    letter-spacing: 0 !important;
+  }
+  /* 
+  .inputDate {
+      display: none;
+  } */
+  
+  .newTranContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .toolTip {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    min-width: 100%;
+  }
+  
+  .getReportButton {
+      margin-top: 15px;
+  }
