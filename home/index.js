@@ -8,8 +8,6 @@ import {
     LinearScale,
     PointElement,
 
-
-
     LineElement,
     Title,
     Tooltip,
